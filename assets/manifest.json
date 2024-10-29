@@ -1,0 +1,7 @@
+{
+  "app.css": "css/app.css",
+  "app.js": "js/app.js",
+  "runtime.js": "js/runtime.js",
+  "vendor.js": "js/bundle/vendor.js",
+  "entrypoints.json": "entrypoints.json"
+}

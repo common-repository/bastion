@@ -1,0 +1,12 @@
+{
+  "app": {
+    "js": [
+      "js/runtime.js",
+      "js/bundle/vendor.js",
+      "js/app.js"
+    ],
+    "css": [
+      "css/app.css"
+    ]
+  }
+}
